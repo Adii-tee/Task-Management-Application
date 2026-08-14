@@ -142,7 +142,6 @@ Example:
 * Due dates
 * Task search and filtering
 * User-specific task lists
-* Database integration
 * Task notifications
 
 ## Author
